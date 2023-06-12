@@ -1,6 +1,5 @@
 // StairLighting biblioteka za Arduino
-// Autor: OpenAI ChatGPT
-
+// Autor: Radenko Bogdanovic
 #ifndef StairLighting_h
 #define StairLighting_h
 
